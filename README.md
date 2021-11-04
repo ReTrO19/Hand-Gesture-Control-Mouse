@@ -54,14 +54,14 @@ Main objective of this project is provide a newer way to interact with your desk
     > LaunchApp.bat
 ```
 
-![ Dog-Filter ](img/dog-filter.png)
+![ Dog-Filter ](img/hand_tracking_demo.gif)
 
 [Back To The Top](#read-me-template)
 
 ---
 
 ## References
-Face Recognition Library [face_recognition](https://github.com/ageitgey/face_recognition.git)
+MediaPipe offers cross-platform, customizable ML solutions for live and streaming media.(provide various highly optimized models) [MediaPipe Page](https://google.github.io/mediapipe/solutions/hands.html) 
 
 [Back To The Top](#read-me-template)
 
